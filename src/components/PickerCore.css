@@ -1,0 +1,8 @@
+.container {
+  width: 300px;
+  background-color: cadetblue;
+}
+
+.container_closed {
+  display: none;
+}

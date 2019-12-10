@@ -1,0 +1,12 @@
+.gridWrapper {
+  display: grid;
+  height: 300px;
+  width: 100%;
+  grid-template: repeat(6, 1fr) / repeat(7, 1fr);
+}
+
+.dayCell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
